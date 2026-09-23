@@ -52,7 +52,7 @@ Pada tahap pertama dibuat file index.html dengan struktur dasar HTML.
 Struktur dasar HTML terdiri dari <!DOCTYPE html>, <html>, <head>, <title>, dan <body>.
 Struktur tersebut digunakan sebagai dasar untuk membuat sebuah halaman web.
 
-![Deskripsi Gambar](./images/1.png)
+![Deskripsi Gambar](https://github.com/adriansyahmukti-svg/lab1.web/blob/main/images/1.png)
 
 
 
