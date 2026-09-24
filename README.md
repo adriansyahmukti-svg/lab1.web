@@ -156,6 +156,8 @@ DOKUMENTASI:
 ![img](images/7.png)
 
 
+BUKTI VALIDATOR HTML
+![img](images/11.png)
 
 
 
